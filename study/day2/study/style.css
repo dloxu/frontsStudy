@@ -140,3 +140,54 @@ a {
     height: 421px;
     background: url(images/banner2.png) no-repeat top center;
 }
+
+.course {
+    float: right;
+    background-color: #fff;
+    width: 230px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.course h2 {
+    background-color: #9bceea;
+    height: 48px;
+    line-height: 48px;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.bd {
+    padding: 0 20px;
+}
+
+.course .bd ul li {
+    width: 190px;
+    height: 52px;
+    padding-top: 14px;
+    border-bottom: 1px solid #ccc;
+}
+
+.course .bd ul li h4 {
+    font-size: 16px;
+    color: #4e4e4e;
+}
+
+.course .bd ul li p {
+    font-size: 12px;
+    color: #a5a5a5;
+}
+
+.bd .more {
+    display: block;
+    height: 38px;
+    width: 190px;
+    line-height: 38px;
+    text-align: center;
+    border: 1px solid #00a4ff;
+    color: #00a4ff;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 700;
+}
